@@ -8,3 +8,4 @@
 <p align="center"><a href="https://github.com/keselekpermen69/UserButt/blob/sql-extended/LICENSE">Raphielscape Public License</a> - Version 1.c, June 2019</p>
 https://repl.it/@KeselekPermen/UserButt#main.py 
 
+https://heroku.com/deploy?template=https://github.com/keselekpermen69/userbutt/tree/fallback
